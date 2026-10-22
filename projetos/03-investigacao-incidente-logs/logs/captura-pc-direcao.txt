@@ -1,0 +1,11 @@
+Captura feita pelo técnico em 2025-03-17 08:22 no computador PC-DIRECAO (comando ipconfig /all)
+
+Adaptador Ethernet:
+   Endereço físico (MAC) . . . . . : 02-1B-00-0A-01-02
+   DHCP habilitado . . . . . . . . : Não
+   Endereço IPv4 . . . . . . . . . : 192.168.1.20
+   Máscara de sub-rede . . . . . . : 255.255.255.0
+   Gateway padrão  . . . . . . . . : 192.168.1.1
+   Servidores DNS  . . . . . . . . : 192.168.1.10
+
+Teste: ping 192.168.1.12 (SRV-NOTAS) → Resposta de 192.168.1.12: tempo<1ms

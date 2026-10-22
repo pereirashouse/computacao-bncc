@@ -1,0 +1,15 @@
+2025-03-14 10:00:00 FW-ESCOLA estatística: 412 sessões ativas vindas da rede interna; 79 origens diferentes
+2025-03-14 14:00:05 FW-ESCOLA sistema: atualização de firmware iniciada (7.2.0 para 7.2.1)
+2025-03-14 14:03:40 FW-ESCOLA sistema: reiniciado com firmware 7.2.1
+2025-03-14 14:04:10 FW-ESCOLA interface: LAN 192.168.1.1/24 ativa; WAN1 ativa
+2025-03-14 14:30:00 FW-ESCOLA estatística: 398 sessões ativas vindas da rede interna; 77 origens diferentes
+2025-03-14 17:00:00 FW-ESCOLA estatística: 205 sessões ativas vindas da rede interna; 60 origens diferentes
+2025-03-15 10:18:20 FW-ESCOLA sistema: falta de energia detectada, desligando
+2025-03-15 10:40:15 FW-ESCOLA sistema: iniciado com firmware 7.2.1
+2025-03-16 03:12:44 FW-ESCOLA interface: WAN1 sem sinal do provedor (link caiu)
+2025-03-16 03:14:02 FW-ESCOLA interface: WAN1 restabelecida
+2025-03-17 07:00:00 FW-ESCOLA estatística: 9 sessões ativas vindas da rede interna; 4 origens diferentes (192.168.1.11, 192.168.1.12, 192.168.1.20, 192.168.1.153)
+2025-03-17 07:45:00 FW-ESCOLA diagnóstico: teste do link WAN1 OK, latência 18 ms, 0% de perda de pacotes
+2025-03-17 08:00:00 FW-ESCOLA estatística: 31 sessões ativas vindas da rede interna; 6 origens diferentes (192.168.1.10, 192.168.1.11, 192.168.1.12, 192.168.1.20, 192.168.1.30, 192.168.1.153)
+2025-03-17 09:00:00 FW-ESCOLA estatística: 33 sessões ativas vindas da rede interna; 6 origens diferentes
+2025-03-17 09:00:00 FW-ESCOLA regras: nenhuma conexão da rede interna foi bloqueada nas últimas 2 horas

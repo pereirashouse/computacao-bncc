@@ -1,0 +1,13 @@
+2025-03-14 16:30:12 SW-CENTRAL stp: porta 3 (LAB-RACK) mudança de topologia
+2025-03-14 16:30:14 SW-CENTRAL stp: topologia estável
+2025-03-14 17:52:08 SW-CENTRAL porta 14 (BIBLIOTECA-MESA2): link ativo, 100 Mb/s
+2025-03-14 17:52:31 SW-CENTRAL porta 14 (BIBLIOTECA-MESA2): endereço MAC 02:1b:00:ee:00:01 aprendido
+2025-03-15 10:18:30 SW-CENTRAL sistema: sem energia, desligando
+2025-03-15 10:40:05 SW-CENTRAL sistema: iniciado; VLANs: 1 (todas as portas); DHCP snooping: desativado; proteção de porta: desativada
+2025-03-15 10:40:20 SW-CENTRAL porta 14 (BIBLIOTECA-MESA2): link ativo, 100 Mb/s
+2025-03-15 10:40:44 SW-CENTRAL porta 14 (BIBLIOTECA-MESA2): endereço MAC 02:1b:00:ee:00:01 aprendido
+2025-03-17 06:58:31 SW-CENTRAL porta 5 (SECRETARIA-1): link ativo, 1 Gb/s
+2025-03-17 06:58:40 SW-CENTRAL porta 6 (SECRETARIA-2): link ativo, 1 Gb/s
+2025-03-17 07:02:15 SW-CENTRAL porta 9 (SALA-PROF-1): link ativo, 1 Gb/s
+2025-03-17 07:13:58 SW-CENTRAL porta 10 (SALA-PROF-AP): link ativo, 1 Gb/s
+2025-03-17 07:21:44 SW-CENTRAL porta 3 (LAB-RACK): 18 endereços MAC aprendidos

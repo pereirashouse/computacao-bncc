@@ -1,0 +1,9 @@
+2025-03-15 10:15:02 SRV-ARQUIVOS energia: nobreak operando em bateria (troca programada)
+2025-03-15 10:18:00 SRV-ARQUIVOS sistema: desligamento seguro iniciado pelo administrador
+2025-03-15 10:40:30 SRV-ARQUIVOS sistema: iniciado
+2025-03-15 10:41:10 SRV-ARQUIVOS compartilhamento: serviço de arquivos ativo
+2025-03-16 02:00:00 SRV-ARQUIVOS backup: cópia diária iniciada
+2025-03-16 02:47:15 SRV-ARQUIVOS backup: cópia diária concluída com sucesso (12,4 GB)
+2025-03-16 23:00:00 SRV-ARQUIVOS disco: aviso, unidade D: com 87% de uso
+2025-03-17 07:00:00 SRV-ARQUIVOS compartilhamento: serviço ativo; 0 conexões
+2025-03-17 08:00:00 SRV-ARQUIVOS compartilhamento: 2 conexões ativas (192.168.1.20, 192.168.1.153); média das segundas-feiras às 08h: 40

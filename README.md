@@ -14,6 +14,18 @@ A ideia por trás deste repositório: problemas reais de infraestrutura de TI (W
 | [Operação Anzol](aulas/02-operacao-anzol/) | 9º ano | Mundo Digital e Cultura Digital (EF09CO04, EF09CO10) | 60 min | Celular ou computador; funciona offline |
 | [Letramento e Pensamento Computacional](oficinas/letramento-pensamento-computacional/) | Professores do Ensino Fundamental | Os 3 eixos | Oficina presencial | Papel, copos, cartões (desplugada) |
 
+## Projetos
+
+Projetos de várias aulas, com simulador ou laboratório próprio, ficam em [`projetos/`](projetos/):
+
+| Projeto | Público | Status |
+|---|---|---|
+| [Rede da Escola: simulador de redes](projetos/01-simulador-rede-escola/) | 8º e 9º ano | Protótipo funcional |
+| [Guardião da Escola: jogo de segurança digital](projetos/02-jogo-seguranca-digital/) | 7º ao 9º ano | Planejado |
+| [A Rede Parou: investigação de incidente com logs](projetos/03-investigacao-incidente-logs/) | 9º ano e Ensino Médio | Protótipo funcional |
+| [Como a internet funciona](projetos/04-como-a-internet-funciona/) | 6º ao 8º ano | Planejado |
+| [Planeje a infraestrutura da sua escola](projetos/05-planeje-a-infraestrutura-da-escola/) | 9º ano e Ensino Médio | Planejado |
+
 Modelos reutilizáveis ficam em [`modelos/`](modelos/).
 
 ## Objetos de aprendizagem
