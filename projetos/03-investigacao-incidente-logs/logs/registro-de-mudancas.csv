@@ -1,0 +1,4 @@
+data;hora;responsavel;mudanca;teste_depois
+2025-03-11;15:00;TI;Troca de toner da impressora da secretaria;Impressão de teste OK
+2025-03-14;14:00;TI;Atualização do firmware do firewall (7.2.0 para 7.2.1);Navegação testada na secretaria e no laboratório às 14:20: OK
+2025-03-15;10:15;TI e eletricista;Troca do nobreak do rack (servidores, switch e firewall desligados por cerca de 25 min);Tudo religado às 10:41; navegação testada na direção: OK

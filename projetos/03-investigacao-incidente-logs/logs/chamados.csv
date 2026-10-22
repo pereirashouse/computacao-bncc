@@ -1,0 +1,10 @@
+data_hora;quem;local;relato;situacao
+2025-03-14 17:48;bibliotecaria;Biblioteca;Recebemos um roteador Wi-Fi doado pela associação de pais. Ligamos na tomada de rede da mesa 2 para os alunos usarem. Alguém da TI pode configurar depois?;aberto
+2025-03-17 07:18;secretaria02;Secretaria;O computador mostra "Conectado, sem internet". O sistema de notas não abre.;aberto
+2025-03-17 07:25;prof.historia;Sala dos professores;O notebook conecta no Wi-Fi da escola, mas nenhum site abre.;aberto
+2025-03-17 07:31;monitor.lab;Laboratório;Metade das máquinas sem internet. As que ficaram ligadas desde sexta funcionam.;aberto
+2025-03-17 07:40;direcao;Direção;Aqui está tudo normal: internet e sistema de notas funcionando.;informativo
+2025-03-17 07:55;aluno.lab05;Laboratório;Minha senha não entra no sistema e agora diz que a conta está bloqueada.;aberto
+2025-03-17 08:05;secretaria01;Secretaria;A impressora da secretaria imprime pelo computador da direção, mas não pelo meu.;aberto
+2025-03-17 08:30;bibliotecaria;Biblioteca;Os alunos estão conectando no Wi-Fi novo (BIBLIOTECA-LIVRE), mas também ficam sem internet.;aberto
+2025-03-17 09:10;tecnico.ti;Rack;Link de internet testado: OK. Firewall mostra tráfego normal saindo da direção. Investigando.;em andamento

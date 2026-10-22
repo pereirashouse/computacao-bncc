@@ -1,0 +1,14 @@
+2025-03-14 07:15:22 SRV-NOTAS login OK: secretaria02 de 192.168.1.121
+2025-03-14 07:41:05 SRV-NOTAS login OK: prof.historia de 192.168.1.147
+2025-03-14 08:02:51 SRV-NOTAS login OK: prof.matematica de 192.168.1.133
+2025-03-14 08:40:00 SRV-NOTAS estatística: 14 logins de professores e secretaria desde 07h
+2025-03-14 16:55:10 SRV-NOTAS logout: secretaria02
+2025-03-15 10:18:10 SRV-NOTAS sistema: desligamento seguro (nobreak)
+2025-03-15 10:41:30 SRV-NOTAS sistema: serviço iniciado
+2025-03-17 07:20:05 SRV-NOTAS login OK: direcao de 192.168.1.20
+2025-03-17 07:52:10 SRV-NOTAS login FALHOU: aluno.lab05 de 192.168.1.153, senha incorreta (1 de 5)
+2025-03-17 07:52:31 SRV-NOTAS login FALHOU: aluno.lab05 de 192.168.1.153, senha incorreta (2 de 5)
+2025-03-17 07:52:55 SRV-NOTAS login FALHOU: aluno.lab05 de 192.168.1.153, senha incorreta (3 de 5)
+2025-03-17 07:53:20 SRV-NOTAS login FALHOU: aluno.lab05 de 192.168.1.153, senha incorreta (4 de 5)
+2025-03-17 07:53:40 SRV-NOTAS login FALHOU: aluno.lab05 de 192.168.1.153, senha incorreta (5 de 5); conta bloqueada por 15 min
+2025-03-17 08:40:00 SRV-NOTAS estatística: 1 login de professores e secretaria desde 07h
