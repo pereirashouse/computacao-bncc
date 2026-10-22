@@ -1,6 +1,6 @@
 # Rede da Escola: simulador de redes
 
-> Status: **protótipo funcional** · [abrir o simulador](simulador/index.html) (baixe a pasta e abra o `index.html` no navegador; funciona sem internet)
+> Status: **protótipo funcional** · [abrir o simulador](https://pereirashouse.github.io/rede-da-escola/) · para usar sem internet, baixe a pasta [`simulador/`](simulador/) e abra o `index.html` no navegador
 
 | | |
 |---|---|
@@ -111,4 +111,3 @@ Como está organizado o código:
 3. Regras de firewall por porta (HTTP, impressão, câmeras) para o Ensino Médio.
 4. Animação do pacote no diagrama durante o ping.
 5. Painel do professor que lê vários arquivos `.json` e resume a turma.
-6. Publicar no GitHub Pages junto com os outros objetos de aprendizagem.

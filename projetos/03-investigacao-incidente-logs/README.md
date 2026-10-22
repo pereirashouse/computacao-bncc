@@ -1,6 +1,6 @@
 # A Rede Parou: investigação de incidente com logs
 
-> Status: **protótipo funcional** · [abrir o laboratório](laboratorio/index.html) (baixe a pasta e abra o `index.html` no navegador; funciona sem internet) · [registros em texto](logs/)
+> Status: **protótipo funcional** · [abrir o laboratório](https://pereirashouse.github.io/a-rede-parou/) · para usar sem internet, baixe a pasta [`laboratorio/`](laboratorio/) e abra o `index.html` no navegador · [registros em texto](logs/)
 
 | | |
 |---|---|

@@ -20,7 +20,7 @@ Projetos de várias aulas que transformam situações reais de redes, servidores
 
 ## Como usar os protótipos
 
-Os protótipos são páginas HTML únicas, sem bibliotecas e sem servidor. Baixe o repositório (botão **Code → Download ZIP** no GitHub), descompacte e abra o `index.html` da pasta do projeto no navegador. Funcionam sem internet, inclusive copiados para um pendrive.
+Os protótipos estão publicados: [Rede da Escola](https://pereirashouse.github.io/rede-da-escola/) e [A Rede Parou](https://pereirashouse.github.io/a-rede-parou/). São páginas HTML únicas, sem bibliotecas e sem servidor; para usar sem internet, baixe o repositório (botão **Code → Download ZIP** no GitHub), descompacte e abra o `index.html` da pasta do projeto no navegador. Funcionam sem internet, inclusive copiados para um pendrive.
 
 ## Dados fictícios
 

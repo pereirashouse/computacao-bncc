@@ -32,6 +32,8 @@ Modelos reutilizáveis ficam em [`modelos/`](modelos/).
 
 - [Simulador de roteador](https://pereirashouse.github.io/simulador-configura-o-roteador/) · [código](https://github.com/pereirashouse/simulador-configura-o-roteador)
 - [Operação Anzol](https://pereirashouse.github.io/operacao-anzol/) · [código](https://github.com/pereirashouse/pereirashouse.github.io/tree/main/operacao-anzol)
+- [Rede da Escola](https://pereirashouse.github.io/rede-da-escola/) · [código](projetos/01-simulador-rede-escola/simulador/)
+- [A Rede Parou](https://pereirashouse.github.io/a-rede-parou/) · [código](projetos/03-investigacao-incidente-logs/laboratorio/)
 
 ## Sobre os códigos da BNCC
 
