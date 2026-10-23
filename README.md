@@ -6,6 +6,34 @@ Autor: [Jeferson Luiz Pereira](https://pereirashouse.github.io) · Analista de I
 
 A ideia por trás deste repositório: problemas reais de infraestrutura de TI (Wi-Fi lento, golpes digitais, falhas de rede) viram situações de aprendizagem. Cada material está em Markdown para ser lido no próprio GitHub, copiado e adaptado.
 
+## Problema
+
+O complemento de Computação à BNCC (2022) tornou obrigatório ensinar redes, internet e segurança digital, mas muitas escolas públicas não têm laboratório, equipamento de rede para os alunos mexerem nem material pronto em português que parta de situações reais. Sem isso, o tema vira teoria no quadro.
+
+## Objetivo
+
+Oferecer materiais que um professor consiga aplicar na semana seguinte: plano de aula com habilidade da BNCC, atividade para o aluno, critério de avaliação e, quando faz sentido, um simulador que roda offline no navegador.
+
+## O que eu desenvolvi
+
+- **4 simuladores e laboratórios em HTML** que funcionam sem internet e sem instalação: roteador Wi-Fi com 6 desafios, rede da escola com VLAN, IP e firewall, investigação de incidente com logs fictícios e jogo de perícia contra golpes digitais.
+- **2 aulas e 1 oficina para professores** com plano completo.
+- **5 projetos de várias aulas** na mesma estrutura de 11 seções (público, objetivo e habilidades, conhecimentos prévios, problema, atividade, avaliação, material do professor e do aluno, código, limitações e próximos passos), dois deles já com protótipo funcional.
+- **Modelo de plano de aula** reutilizável em [`modelos/`](modelos/).
+
+## Demonstração
+
+| Experimente no navegador | O que o aluno faz |
+|---|---|
+| [Simulador de roteador](https://pereirashouse.github.io/simulador-configura-o-roteador/) | Resolve 6 desafios (canal, alcance, segurança, QoS, log) com feedback a cada tentativa |
+| [Rede da Escola](https://pereirashouse.github.io/rede-da-escola/) | Separa a rede em VLANs, endereça e testa com ping em 5 missões |
+| [A Rede Parou](https://pereirashouse.github.io/a-rede-parou/) | Lê logs de DHCP, switch e firewall e descobre a causa de uma queda |
+| [Operação Anzol](https://pereirashouse.github.io/operacao-anzol/) | Faz a perícia de mensagens e links falsos e entende os gatilhos de manipulação |
+
+## Como executar
+
+Abra os links acima. Para usar sem internet, baixe o repositório (**Code → Download ZIP**), descompacte e abra o `index.html` da pasta do material. Os arquivos cabem em um pendrive.
+
 ## Materiais
 
 | Material | Público | Eixo BNCC | Duração | Precisa de |
@@ -34,6 +62,18 @@ Modelos reutilizáveis ficam em [`modelos/`](modelos/).
 - [Operação Anzol](https://pereirashouse.github.io/operacao-anzol/) · [código](https://github.com/pereirashouse/pereirashouse.github.io/tree/main/operacao-anzol)
 - [Rede da Escola](https://pereirashouse.github.io/rede-da-escola/) · [código](projetos/01-simulador-rede-escola/simulador/)
 - [A Rede Parou](https://pereirashouse.github.io/a-rede-parou/) · [código](projetos/03-investigacao-incidente-logs/laboratorio/)
+
+## Limitações
+
+- Os materiais ainda não têm registro de aplicação com turmas (resultados, fotos ou relatos). Esse retorno será incluído em cada plano depois da aplicação.
+- Três dos cinco projetos estão só planejados.
+- Os simuladores não guardam respostas para o professor; o acompanhamento é feito em sala.
+
+## Próximos passos
+
+- Aplicar as aulas e o simulador de roteador em turmas e publicar uma reflexão sobre o resultado em cada plano.
+- Rubricas de avaliação em todos os projetos.
+- Protótipos dos projetos 2, 4 e 5.
 
 ## Sobre os códigos da BNCC
 
